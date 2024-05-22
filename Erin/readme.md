@@ -13,7 +13,7 @@ This project is focused on developing and testing algorithms for autonomous dron
 - **CustomEnvironments/**: Custom environments for testing and prototyping.
 - **Examples/**: Example scripts and usage demonstrations.
 - **Network/**: Contains the PlanningNet, ControlNet, and StateEstimation modules.
-- **Results/Flight-2024-05-22/**: Directory for storing results of specific flight tests.
+- **Results/**: Directory for storing results of specific flight tests.
 - **StudyMaterial/**: Contains lecture notes, papers, and other study materials related to reinforcement learning.
 - **readme.md**: Project documentation.
 
