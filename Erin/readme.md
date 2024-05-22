@@ -12,6 +12,12 @@ This project is focused on developing and testing algorithms for autonomous dron
 - **StateEstimation/**: Modules for estimating the state of the drones.
 - **readme.md**: Project documentation.
 
-- ## Roadmap
+## Roadmap
 - **TBD**
+
+## How to use
+- **TBD**
+
+## Configuration explanation
+- **TBD** 
 
